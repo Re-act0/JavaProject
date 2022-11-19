@@ -1,0 +1,10 @@
+ hp HP mp MP id ID ps PS EU on On Up TP SP PK DP OP op
+ark Ark ARK cat Cat hat Hat hit Hit Hot aim Aim sup Sup PVP PVE RPG rpg LOA MMO Way WAY Row Den
+gold Gold lost Lost Bard BARD bard Soul soul heal Heal deal Deal post Post lead Lead play Play Life
+Isle Lair Lake Gate Port Cube Raid
+class Class Skill skill Elegy Jewel Token Foggy Tooki Monte Argon Peyto Forpe Atlas Tower Towen Notos
+Giant Slime White Mount Orbis Eurus Quest Abyss 
+Island Mokoko Mercia Gravis Naruni Wisdom Lopang Silver Forest Golden Timber Brahms Targon Astray
+Sudden Weekly Legion Valtan Normal
+Dungeon Fishing Hunting GateWay Control Blessed Paladin Igniter Reflux Revenge Bellion Fortuna Loghill
+Pinnacle Judement GaleWind LostLind 
